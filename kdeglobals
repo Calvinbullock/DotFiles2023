@@ -1,0 +1,172 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=192,113,129
+BackgroundNormal=47,52,58
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=160,160,160
+ForegroundLink=255,140,160
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,146,166
+
+[Colors:Complementary]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=161,169,177
+ForegroundLink=255,140,160
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=189,110,125
+BackgroundNormal=189,110,125
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=255,255,255
+ForegroundLink=255,140,160
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=255,255,255
+ForegroundPositive=23,104,57
+ForegroundVisited=255,146,166
+
+[Colors:Tooltip]
+BackgroundAlternate=42,46,50
+BackgroundNormal=46,50,56
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=160,160,160
+ForegroundLink=255,140,160
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,146,166
+
+[Colors:View]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=160,160,160
+ForegroundLink=255,140,160
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,146,166
+
+[Colors:Window]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=255,140,160
+DecorationHover=255,140,160
+ForegroundActive=255,140,160
+ForegroundInactive=160,160,160
+ForegroundLink=255,140,160
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,146,166
+
+[DirSelect Dialog]
+DirSelectDialog Size=1046,744
+History Items[$e]=file:$HOME/Pictures
+
+[General]
+AccentColor=255,140,160
+BrowserApplication=com.brave.Browser.desktop
+ColorSchemeHash=120450227014a8fbb0f77cd678208b614cd4e288
+LastUsedCustomAccentColor=255,140,160
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+AnimationDurationFactor=0.35355339059327373
+LookAndFeelPackage=Moe-Dark
+ShowDeleteCommand=false
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=138
+View Style=Simple
+
+[KScreen]
+ScaleFactor=1.25
+ScreenScaleFactors=eDP-1=1.25;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[Shortcuts]
+Quit=
+
+[WM]
+activeBackground=38,41,46
+activeBlend=255,140,160
+activeForeground=252,140,160
+frame=255,140,160
+inactiveBackground=38,41,46
+inactiveBlend=38,41,46
+inactiveForeground=177,177,177
+inactiveFrame=63,69,77

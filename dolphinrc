@@ -1,0 +1,37 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[CreateDialog]
+LastMimeType=application/x-compressed-tar
+
+[General]
+CloseActiveSplitView=false
+ShowZoomSlider=false
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2023,4,27,8,29,29.145
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+1805x1203 screen: Height=458
+1805x1203 screen: Width=408
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1805x1203=648
+eDP-1 Width 1805x1203=757
+eDP-1 XPosition 1504x1003=303
+eDP-1 XPosition 1805x1203=773
+eDP-1 XPosition 2256x1504=748
+eDP-1 YPosition 1504x1003=220
+eDP-1 YPosition 1805x1203=177
+eDP-1 YPosition 2256x1504=469
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

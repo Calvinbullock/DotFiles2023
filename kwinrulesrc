@@ -1,0 +1,32 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=No title bars
+noborderrule=4
+types=1
+
+[2]
+Description=Full Screen Launch
+fullscreenrule=3
+wmclass=.*
+wmclassmatch=3
+
+[2178f79d-c535-49cb-818f-c91c46d5e10a]
+Description=Full Screen Launch
+fullscreenrule=3
+wmclassmatch=1
+
+[2fcbb478-66d5-4d42-abab-730e2f76705c]
+Description=New window settings
+wmclassmatch=1
+
+[63e3fed9-f166-443e-84c2-732005821a31]
+Description=No title bars
+noborder=true
+noborderrule=4
+types=1
+
+[General]
+count=2
+rules=1,2
