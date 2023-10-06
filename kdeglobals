@@ -113,7 +113,7 @@ History Items[$e]=file:$HOME/Pictures
 
 [General]
 AccentColor=255,140,160
-BrowserApplication=com.brave.Browser.desktop
+BrowserApplication=brave_brave.desktop
 ColorSchemeHash=120450227014a8fbb0f77cd678208b614cd4e288
 LastUsedCustomAccentColor=255,140,160
 XftAntialias=true

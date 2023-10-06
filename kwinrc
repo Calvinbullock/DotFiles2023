@@ -11,13 +11,15 @@ Id_3=a6017b4c-a654-4304-8dff-5a4986306af2
 Id_4=6930e5d4-7d22-44c9-80b3-f2872e0a1598
 Id_5=773af6e2-ddeb-4cc6-ace1-3039bc2bc5cc
 Id_6=18e0b425-65ab-458c-8fc2-40c7ecf600b6
+Id_7=cb01a37b-2018-4bf5-b47b-fede20065bfc
 Name_1=D1
 Name_2=D2
 Name_3=D3
 Name_4=D4
 Name_5=D5
 Name_6=D6
-Number=6
+Name_7=D7
+Number=7
 Rows=1
 
 [Effect-PresentWindows]
@@ -51,7 +53,7 @@ windowviewEnabled=false
 LayoutName=thumbnail_grid
 
 [Tiling]
-padding=4
+padding=6
 
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
 tiles={"layoutDirection":"horizontal","tiles":[{"layoutDirection":"floating","tiles":[{"height":0.25,"width":0.3,"x":0.05,"y":0.05}],"width":0.5325354609929065},{"width":0.4674645390070935}]}
@@ -66,7 +68,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][8a684ed5-20f4-5d38-b61a-21ad9c3d5aa8]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.6343750000000012},{"width":0.36562499999999876}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.6005208333333353},{"width":0.3994791666666647}]}
 
 [Tiling][bcd552ae-a102-5aad-9595-649bee120fd8]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

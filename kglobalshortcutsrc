@@ -6,6 +6,12 @@ switch-to-activity-fbcb52be-61a3-4eff-a0fa-a295c10c9f8a=none,none,Switch to acti
 Switch to Next Keyboard Layout=Ctrl+Alt+K,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
+[brave_brave.desktop]
+_k_friendly_name=Brave Web Browser
+_launch=Alt+B,none,Brave Web Browser
+new-private-window=none,none,New Incognito Window
+new-window=none,none,New Window
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -136,7 +142,7 @@ Window Maximize Vertical=none,,Maximize Window Vertically
 Window Minimize=Alt+D\tMeta+D\tMeta+PgDown,Meta+PgDown,Minimize Window
 Window Move=none,,Move Window
 Window Move Center=none,,Move Window to the Center
-Window No Border=Alt+B,,Toggle Window Titlebar and Frame
+Window No Border=Alt+Shift+B,,Toggle Window Titlebar and Frame
 Window On All Desktops=none,,Keep Window on All Desktops
 Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Window One Desktop Down
 Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Window One Desktop Up
@@ -280,8 +286,8 @@ activate widget 31=none,none,Activate Memory Usage Widget
 activate widget 32=none,none,Activate Total CPU Use Widget
 activate widget 33=Meta+X,none,Activate Media Player Widget
 activate widget 4=none,none,Activate Pager Widget
-activate widget 43=Alt+F1,none,Activate Application Launcher Widget
-activate widget 49=none,none,Activate Task Manager Widget
+activate widget 57=Alt+F1,none,Activate Application Launcher Widget
+activate widget 58=none,none,Activate Icons-only Task Manager Widget
 clear-history=none,,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Meta+Ctrl+X,Automatic Action Popup Menu
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
